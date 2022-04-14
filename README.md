@@ -2,7 +2,7 @@
 
 ## Hi, I'm Tiago Schwab
 
-- I’m currently learning Javascript and networking
+- I’m currently learning javascript and networking
 
 ## Languages
 
