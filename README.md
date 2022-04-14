@@ -2,6 +2,7 @@
 
 ## Hi, I'm Tiago Schwab
 
+- I'm a front end developer
 - I’m currently learning javascript and networking
 
 ## Languages
