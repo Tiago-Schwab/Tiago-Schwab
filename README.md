@@ -14,7 +14,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-22272E?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-22272E?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-## Other Tools
+## Other tools
 
 [![Git](https://img.shields.io/badge/Git-22272E?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-22272E?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
