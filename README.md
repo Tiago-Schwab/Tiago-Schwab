@@ -9,6 +9,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
 ![CSS3](https://img.shields.io/badge/css3-0D1117.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c++&logoColor=white)
 
 ## Frameworks
 
